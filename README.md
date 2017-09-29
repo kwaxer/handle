@@ -1,2 +1,2 @@
-# handle
+# Handle
 Eiffel MVC framework
